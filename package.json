@@ -1,0 +1,23 @@
+{
+  "name": "vutura-functional-test",
+  "version": "1.0.0",
+  "description": "functional test of project",
+  "main": "index.js",
+  "dependencies": {
+    "chromedriver": "^2.44.0",
+    "phantomjs": "^2.1.7"
+  },
+  "devDependencies": {
+    "selenium-cucumber-js": "^1.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "node ./node_modules/selenium-cucumber-js/index.js -s ./step-definitions",
+    "test-headless": "node ./index.js -s ./step-definitions"
+  },
+  "author": "QA Team",
+  "license": "vutura.io"
+}

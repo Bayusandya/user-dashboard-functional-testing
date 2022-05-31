@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="add-bot-connect-qiscus;add-bot-connect-qiscus" tests="11" failures="0" skipped="0">
+        <properties>
+            <property name="@success" value="true">
+            </property>
+            <property name="URI" value="D:\Project\vutura\intern-vutura-functional-test-vue\features\add-bot-to-connect-qiscus.feature">
+            </property>
+        </properties>
+        <testcase name="Given do login to add bot to connect qiscus Vuejs" classname="add-bot-connect-qiscus;add-bot-connect-qiscus" time="0.0017459">
+        </testcase>
+        <testcase name="And Click a bot card button toadd bot to connect qiscus Vuejs" classname="add-bot-connect-qiscus;add-bot-connect-qiscus" time="9.869853399">
+        </testcase>
+        <testcase name="And Click Connect button to add bot to connect qiscus VueJs" classname="add-bot-connect-qiscus;add-bot-connect-qiscus" time="1.1750256">
+        </testcase>
+        <testcase name="And Click Setup Qiscus Button to add bot to connect qiscus VueJs" classname="add-bot-connect-qiscus;add-bot-connect-qiscus" time="0.702770701">
+        </testcase>
+        <testcase name="And fill Application ID Qiscus Button to add bot to connect qiscus VueJs" classname="add-bot-connect-qiscus;add-bot-connect-qiscus" time="0.1043953">
+        </testcase>
+        <testcase name="And Click Next Application ID Button to add bot to connect qiscus VueJs" classname="add-bot-connect-qiscus;add-bot-connect-qiscus" time="0.3292697">
+        </testcase>
+        <testcase name="And fill Secret Key Qiscus Button to add bot to connect qiscus VueJs" classname="add-bot-connect-qiscus;add-bot-connect-qiscus" time="0.0941633">
+        </testcase>
+        <testcase name="And Click Next Secret Key Qiscus Button to add bot to connect qiscus VueJs" classname="add-bot-connect-qiscus;add-bot-connect-qiscus" time="0.3118566">
+        </testcase>
+        <testcase name="And fill WebHook URL Qiscus Button to add bot to connect qiscus VueJs" classname="add-bot-connect-qiscus;add-bot-connect-qiscus" time="0.051641799">
+        </testcase>
+        <testcase name="When Click Create Qiscus Connect Button to add bot to connect qiscus VueJs" classname="add-bot-connect-qiscus;add-bot-connect-qiscus" time="0.2795835">
+        </testcase>
+        <testcase name="Then User success to add bot to connect qiscus VueJs" classname="add-bot-connect-qiscus;add-bot-connect-qiscus" time="0.0003428">
+        </testcase>
+    </testsuite>
+</testsuites>

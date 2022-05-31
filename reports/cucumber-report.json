@@ -1,0 +1,183 @@
+[
+  {
+    "description": "    As a user, I want to do add-bot-connect-line",
+    "elements": [
+      {
+        "id": "add-bot-connect-qiscus;add-bot-connect-qiscus",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "add-bot-connect-qiscus",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "do login to add bot to connect qiscus Vuejs",
+            "result": {
+              "status": "passed",
+              "duration": 1745900
+            },
+            "line": 8,
+            "match": {
+              "location": "D:\\Project\\vutura\\intern-vutura-functional-test-vue\\step-definitions\\add-bot-to-connect-qiscus.js:2"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "Click a bot card button toadd bot to connect qiscus Vuejs",
+            "result": {
+              "status": "passed",
+              "duration": 9869853399
+            },
+            "line": 9,
+            "match": {
+              "location": "D:\\Project\\vutura\\intern-vutura-functional-test-vue\\step-definitions\\add-bot-to-connect-qiscus.js:18"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "Click Connect button to add bot to connect qiscus VueJs",
+            "result": {
+              "status": "passed",
+              "duration": 1175025600
+            },
+            "line": 10,
+            "match": {
+              "location": "D:\\Project\\vutura\\intern-vutura-functional-test-vue\\step-definitions\\add-bot-to-connect-qiscus.js:28"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "Click Setup Qiscus Button to add bot to connect qiscus VueJs",
+            "result": {
+              "status": "passed",
+              "duration": 702770701
+            },
+            "line": 11,
+            "match": {
+              "location": "D:\\Project\\vutura\\intern-vutura-functional-test-vue\\step-definitions\\add-bot-to-connect-qiscus.js:38"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "fill Application ID Qiscus Button to add bot to connect qiscus VueJs",
+            "result": {
+              "status": "passed",
+              "duration": 104395300
+            },
+            "line": 12,
+            "match": {
+              "location": "D:\\Project\\vutura\\intern-vutura-functional-test-vue\\step-definitions\\add-bot-to-connect-qiscus.js:49"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "Click Next Application ID Button to add bot to connect qiscus VueJs",
+            "result": {
+              "status": "passed",
+              "duration": 329269700
+            },
+            "line": 13,
+            "match": {
+              "location": "D:\\Project\\vutura\\intern-vutura-functional-test-vue\\step-definitions\\add-bot-to-connect-qiscus.js:59"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "fill Secret Key Qiscus Button to add bot to connect qiscus VueJs",
+            "result": {
+              "status": "passed",
+              "duration": 94163300
+            },
+            "line": 14,
+            "match": {
+              "location": "D:\\Project\\vutura\\intern-vutura-functional-test-vue\\step-definitions\\add-bot-to-connect-qiscus.js:69"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "Click Next Secret Key Qiscus Button to add bot to connect qiscus VueJs",
+            "result": {
+              "status": "passed",
+              "duration": 311856600
+            },
+            "line": 15,
+            "match": {
+              "location": "D:\\Project\\vutura\\intern-vutura-functional-test-vue\\step-definitions\\add-bot-to-connect-qiscus.js:79"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "fill WebHook URL Qiscus Button to add bot to connect qiscus VueJs",
+            "result": {
+              "status": "passed",
+              "duration": 51641799
+            },
+            "line": 16,
+            "match": {
+              "location": "D:\\Project\\vutura\\intern-vutura-functional-test-vue\\step-definitions\\add-bot-to-connect-qiscus.js:89"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "Click Create Qiscus Connect Button to add bot to connect qiscus VueJs",
+            "result": {
+              "status": "passed",
+              "duration": 279583500
+            },
+            "line": 17,
+            "match": {
+              "location": "D:\\Project\\vutura\\intern-vutura-functional-test-vue\\step-definitions\\add-bot-to-connect-qiscus.js:99"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "User success to add bot to connect qiscus VueJs",
+            "result": {
+              "status": "passed",
+              "duration": 342800
+            },
+            "line": 18,
+            "match": {
+              "location": "D:\\Project\\vutura\\intern-vutura-functional-test-vue\\step-definitions\\add-bot-to-connect-qiscus.js:109"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 5388129800
+            },
+            "hidden": true,
+            "match": {
+              "location": "D:\\Project\\vutura\\intern-vutura-functional-test-vue\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@success",
+            "line": 6
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "add-bot-connect-qiscus",
+    "keyword": "Feature",
+    "line": 3,
+    "name": "add-bot-connect-qiscus",
+    "tags": [],
+    "uri": "D:\\Project\\vutura\\intern-vutura-functional-test-vue\\features\\add-bot-to-connect-qiscus.feature"
+  }
+]
